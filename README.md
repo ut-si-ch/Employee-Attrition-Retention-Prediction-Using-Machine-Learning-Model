@@ -1,2 +1,2 @@
 # Research_ML_model
-Employee attrition &amp; retention prediction using diiferent Machine Learning Models
+Employee attrition &amp; retention prediction using different Machine Learning Models.
